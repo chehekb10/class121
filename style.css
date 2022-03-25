@@ -1,0 +1,53 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    background-color: plum;
+    padding: 10px;
+    padding-top: 20px !important;
+  }
+  .heading_div
+  {
+    background-color: rgb(240, 232, 240); 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey; 
+    padding-bottom: 20px;
+    padding-top:  20px; ;
+  }
+  .heading_div2
+  {
+    background-color: rgb(240, 230, 240);
+    font-size: 18px ;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+    background-color: plum;
+    height: 40px;
+  }
+
+.developed_by
+{
+  box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+    background-color: plum;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    padding-top: 8px;
+}
+
+canvas
+{
+  border: 8px solid;
+  border-radius: 3px;
+  background-color: white;
+  border-color: plum;
+  margin-top: 200px;
+}
